@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Joy Wanjiru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, HTML,CSS, C and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns:She/Her
-- ⚡ Fun fact: ...
+- :brown_heart: Hiiiii, I’m Joy Wanjiru Ndung'u
+- :spider: I’m interested in backend development
+- :seedling: I’m currently learning Python
+- :school: Software Engineering Student
+- :telephone: How to reach me:
+-  @j0yyy.yyy on Instagram
+-  Email: jjjwanjiru@gmail.com
+
+
 
 <!---
 Jjjoywanjiru/Jjjoywanjiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
