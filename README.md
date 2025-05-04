@@ -2,9 +2,7 @@
 - :spider: I’m interested in backend development
 - :seedling: I’m currently learning Python
 - :school: Software Engineering Student
-- :telephone: How to reach me:
--  @j0yyy.yyy on Instagram
--  Email: jjjwanjiru@gmail.com
+- :telephone: How to reach me:   Email: jjjwanjiru@gmail.com
 
 
 
